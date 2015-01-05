@@ -16,7 +16,7 @@
 
 (b) An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title. This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 
-(c)(1) For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title.
+(c)(1) For the purpose of this subsection, the term "technician" has the meaning given such term by section 8337(h)(1) of this title.
 
 (2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
 
@@ -34,13 +34,13 @@
 
 (2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a career or career-conditional appointment, as appropriate.
 
-(3) This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
+(3) This subsection shall not be construed to confer an entitlement to veterans' preference that is not otherwise required by law.
 
 (4) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006,119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485.)
 
 Historical and Revision Notes
 
@@ -92,13 +92,13 @@ June 24, 1952, ch. 456, 66 Stat. 155.
 
 Jan. 16, 1883, ch. 27, §3 (7th sentence), 22 Stat. 404.
 
-In subsection (a), the authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The words “competitive service” are substituted for “public service” since the requirements do not apply to the excepted or uniformed service.
+In subsection (a), the authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The words "competitive service" are substituted for "public service" since the requirements do not apply to the excepted or uniformed service.
 
-In subsection (b), the words “That after the expiration of six months from the passage of this act” are omitted as executed. The words “in the competitive service” are substituted for “in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules” because of the definition of “competitive service” in section 2102. In the second sentence, the words “the provisions of this title governing the competitive service” are substituted for “this act”.
+In subsection (b), the words "That after the expiration of six months from the passage of this act" are omitted as executed. The words "in the competitive service" are substituted for "in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules" because of the definition of "competitive service" in section 2102. In the second sentence, the words "the provisions of this title governing the competitive service" are substituted for "this act".
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words "From and after the effective date of this Act" and "From and after the date of approval of this Act" are omitted as executed. The words "competitive service" are substituted for "classified civil service" in view of the definition of "competitive service" in section 2102. The words "or as a clerical employee of the Senate or House of Representatives" are omitted as included in the reference to "an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives". The words "and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder" are omitted as unnecessary.
 
-In subsection (d), the word “Employees” is substituted for “collector, postmaster, and other officers of the United States”.
+In subsection (d), the word "Employees" is substituted for "collector, postmaster, and other officers of the United States".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -106,33 +106,33 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-“(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
+"(i) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need; or
 
-“(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense Education Program under section 2192a of title 10, United States Code.”
+"(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense Education Program under section 2192a of title 10, United States Code."
 
-<b>2006</b>—Subsec. (a)(3)(B)(ii). Pub. L. 109–163 substituted “Defense Education Program” for “Scholarship Pilot Program” and “section 2192a of title 10, United States Code.” for “section 1105 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005.”
+<b>2006</b>—Subsec. (a)(3)(B)(ii). Pub. L. 109–163 substituted "Defense Education Program" for "Scholarship Pilot Program" and "section 2192a of title 10, United States Code." for "section 1105 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005."
 
-<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–375 added subpar. (B) and struck out former subpar. (B) which read as follows: “the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need.”
+<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–375 added subpar. (B) and struck out former subpar. (B) which read as follows: "the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need."
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 added par. (3).
 
 <b>1999</b>—Subsec. (f)(2), (3). Pub. L. 106–117, §511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (f)(4). Pub. L. 106–117, §511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
+Subsec. (f)(4). Pub. L. 106–117, §511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: "The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans."
 
 Subsec. (f)(5). Pub. L. 106–117, §511(c)(4), added par. (5).
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–339 added subsec. (f).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+<b>1995</b>—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
-&emsp;“(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
+&emsp;"(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
-&emsp;“(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
+&emsp;"(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
 
-> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces.”
+> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces."
 
 Subsec. (d). Pub. L. 104–65, §17(a), which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
 
@@ -140,7 +140,7 @@ Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
 <b>1986</b>—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted "the Office of Personnel Management" for "a Civil Service Commission board of examiners".
 
 #### Effective Date of 2002 Amendment
 
@@ -148,17 +148,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a) \[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
+Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: "If pursuant to subsection (a) \[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182)."
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: “The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\].”
+Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\]."
 
-Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: “The amendment made by this section \[amending this section\] shall take effect 2 years afterthe date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
+Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: "The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 
-&emsp;“(1) conduct a study on excepted service considerations for competitive service appointments relating to such amendment; and
+&emsp;"(1) conduct a study on excepted service considerations for competitive service appointments relating to such amendment; and
 
-&emsp;“(2) take all necessary actions for the regulations described under such amendment to take effect as final regulations on the effective date of this section.”
+&emsp;"(2) take all necessary actions for the regulations described under such amendment to take effect as final regulations on the effective date of this section."
 
 #### Effective Date of 1978 Amendment
 

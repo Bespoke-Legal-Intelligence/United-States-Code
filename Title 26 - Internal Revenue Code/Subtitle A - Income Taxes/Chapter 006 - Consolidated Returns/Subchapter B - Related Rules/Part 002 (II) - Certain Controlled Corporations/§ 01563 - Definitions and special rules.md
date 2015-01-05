@@ -96,7 +96,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (B) Brother-sister controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as"common owners") own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(2), if 5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as "common owners") own (within the meaning of subsection (d)(2)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in a corporation, the following stock of such corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in such corporation held by an employees' trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
@@ -130,7 +130,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (2) Attribution from partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as owned by any partner having an interest of 5 percent or more in either the capital or profits of the partnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as ownedby any partner having an interest of 5 percent or more in either the capital or profits of the partnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
 
 #### (3) Attribution from estates or trusts
 
@@ -154,7 +154,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 &emsp;&emsp;(C) Not more than 50 percent of such corporation's gross income for such taxable year was derived from royalties, rents, dividends, interest, and annuities; and
 
-&emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of theindividual or his children who have not attained the age of 21 years.
+&emsp;&emsp;(D) Such stock in such corporation is not, at any time during such taxable year, subject to conditions which substantially restrict or limit the spouse's right to dispose of such stock and which run in favor of the individual or his children who have not attained the age of 21 years.
 
 #### (6) Children, grandchildren, parents, and grandparents
 
@@ -262,7 +262,7 @@ Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted "5 or fewer person
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1988 Amendment
 

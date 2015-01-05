@@ -12,7 +12,7 @@ The Commission shall, by rule, require any person proposing to enter into a cont
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enterinto any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) of this section and any other information otherwise available to the Commission that—
+&emsp;Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enter into any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) of this section and any other information otherwise available to the Commission that—
 
 &emsp;&emsp;(A) it is unlikely that a conflict of interest would exist, or
 

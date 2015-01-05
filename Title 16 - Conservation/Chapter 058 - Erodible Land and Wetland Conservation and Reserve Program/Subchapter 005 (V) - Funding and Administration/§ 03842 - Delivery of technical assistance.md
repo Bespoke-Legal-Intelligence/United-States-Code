@@ -114,7 +114,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 &emsp;If the Secretary determines under paragraph (1) that revisions to the conservation practice standards, including engineering design specifications, are necessary, the Secretary shall establish an administrative process for expediting the revisions.
 
-#### (i) Addressing concerns of speciality crop, organic, and precision agriculture producers
+#### (i) Addressing concerns of specialty crop, organic, and precision agriculture producers
 
 #### (1) In general
 
@@ -138,7 +138,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 &emsp;&emsp;&emsp;(ii) program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
 
-(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II, §2706, June 18, 2008, 122 Stat. 1664, 1802.)
+(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22,2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II, §2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, §2713(c), Feb. 7, 2014, 128 Stat. 772.)
 
 #### References in Text
 
@@ -159,6 +159,8 @@ A prior section 3842, Pub. L. 99–198, title XII, §1242, as added Pub. L. 104�
 Another prior section 3842, Pub. L. 99–198, title XII, §1242, Dec. 23, 1985, 99 Stat. 1515, related to use of other agencies, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (i). Pub. L. 113–79 substituted "specialty" for "speciality" in heading.
 
 <b>2008</b>—Pub. L. 110–246, §2706, amended section generally. Prior to amendment, section related to: in subsec. (a), provision of technical assistance to an eligible producer directly or through an approved third party; and, in subsec. (b), establishment of a system to certify third-party providers, transition provisions for persons that had provided assistance before May 13, 2002, and cooperative agreements or contracts with non-Federal entities.
 

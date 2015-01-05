@@ -12,7 +12,7 @@
 
 (b)(1) The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
-&emsp;(A) may be armed with appropriate firearms required for personal safety and for the properexecution of their duties, whether on Department of Defense property or in travel status; and
+&emsp;(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 
 &emsp;(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
 

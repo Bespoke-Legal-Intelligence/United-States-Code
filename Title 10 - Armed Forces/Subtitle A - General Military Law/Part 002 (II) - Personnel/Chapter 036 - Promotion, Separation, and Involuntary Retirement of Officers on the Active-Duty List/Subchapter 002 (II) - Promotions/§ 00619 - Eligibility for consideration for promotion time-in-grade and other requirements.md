@@ -48,7 +48,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 &emsp;(i) A requirement that the Secretary of a military department may exercise such authority in the case of a particular selection board only if the Secretary of Defense approves the exercise of that authority for that board.
 
-&emsp;(ii) A requirement that an officer may be precluded from consideration by a selection board under this paragraph only upon the recommendation of a preselection board of officers convened by the Secretary of the military department concerned and composed of at least three officers all of whom are serving in a grade higher than the grade of such officer.
+&emsp;(ii) A requirement that an officer may be precluded from consideration by a selection board under this paragraph only upon the recommendation of a preselection board of officers convened by the Secretary of the militarydepartment concerned and composed of at least three officers all of whom are serving in a grade higher than the grade of such officer.
 
 &emsp;(iii) A requirement that such a preselection board may not recommend that an officer be precluded from such consideration unless the Secretary concerned has given the officer advance written notice of the convening of such board and of the military records that will be considered by the board and has given the officer a reasonable period before the convening of the board in which to submit comments to the board.
 
@@ -70,7 +70,7 @@ Certain Officers Not To Be Considered.—A selection board convened under sectio
 
 &emsp;(5) An officer in the grade of captain or, in the case of the Navy, lieutenant who is not a citizen of the United States.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Subsec. (c)(3). Pub. L. 102–190, §504(d)(2), added par. (3).
 
 Subsec. (e)(2)(D), (E). Pub. L. 100–456, §515(b)(1), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "until January 1, 1992, in the case of an officer who served before October 1, 1986, in an assignment (other than a joint duty assignment) that involved significant experience in joint matters (as determined by the Secretary)."
 
-Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted "paragraph (2) (other than under subparagraph (A) of that paragraph)" for "paragraph (2)(B), (2)(C), or (2)(D)".
+Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted "paragraph (2) (other than under subparagraph\(A) of that paragraph)" for "paragraph (2)(B), (2)(C), or (2)(D)".
 
 Subsec. (e)(5). Pub. L. 100–456, §515(a)(1)(B), added par. (5).
 
@@ -166,7 +166,7 @@ Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, pro
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1981 Amendment
 

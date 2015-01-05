@@ -24,7 +24,7 @@ The Secretary, pursuant to procedures set forth in subsections (c) and (d) of th
 
 &emsp;&emsp;(H) relevant environmental and predictive information for different areas of the outer Continental Shelf.
 
-&emsp;(3) The Secretary shall select the timing and location of leasing, to the maximum extent practicable, so as to obtain a proper balance between the potential for environmental damage, the potential for the discovery of oil and gas, and the potential for adverse impact on the coastal zone.
+&emsp;(3) The Secretary shall select the timing and location of leasing, to the maximum extentpracticable, so as to obtain a proper balance between the potential for environmental damage, the potential for the discovery of oil and gas, and the potential for adverse impact on the coastal zone.
 
 &emsp;(4) Leasing activities shall be conducted to assure receipt of fair market value for the lands leased and the rights conveyed by the Federal Government.
 

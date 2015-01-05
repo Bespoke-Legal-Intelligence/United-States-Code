@@ -48,17 +48,23 @@ In this part—
 
 &emsp;(2) the term "exceptional circumstances" means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069.)
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
+
+#### Amendment of Subsection (a)(7)
+
+<i>Pub. L. 113–128, title V, §§506, 512(aa), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(7) of this section is amended by striking "(including services and programs for youth available under the Workforce Investment Act of 1998)" and inserting "(including services and programs for youth available under the Workforce Innovation and Opportunity Act)". See 2014 Amendment note below.</i>
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(7), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(7), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of this title and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (a)(7). Pub. L. 113–128 substituted "(including services and programs for youth available under the Workforce Innovation and Opportunity Act)" for "(including services and programs for youth available under the Workforce Investment Act of 1998)".
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted "by grant, agreement, or contract, shelter" for "directly or indirectly, shelter" and "and provide, by grant, agreement, or contract, services," for "and services".
 
@@ -83,6 +89,10 @@ Subsec. (c). Pub. L. 108–96, §107(b), added subsec. (c).
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §3(f)(1), inserted "which shall include money management, budgeting, consumer education, and use of credit" after "basic life skills".
 
 Subsec. (a)(13). Pub. L. 102–586, §3(f)(2), substituted "informed consent of the individual youth" for "consent of the individual youth and parent or legal guardian" and struck out "or a government agency involved in the disposition of criminal charges against youth" after "statistical records".
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date
 

@@ -100,7 +100,7 @@ A prior section 1034, Pub. L. 89–329, title II, §224, as added Pub. L. 102–
 
 Another prior section 1034, Pub. L. 89–329, title II, §224, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1385, authorized special purpose grants, prior to repeal by Pub. L. 99–498, title II, §204(a), Oct. 17, 1986, 100 Stat. 1289.
 
-Another prior section 1034, Pub. L. 89–329, title II, §223, formerly §224, Nov. 8, 1965, 79 Stat. 1228, Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, and renumbered Pub. L. 92–318, title I, §111(b)(3)(D), June 23, 1972, 86 Stat. 240, related to grants for research and demonstration projects, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1034, Pub. L. 89–329, title II, §223, formerly §224, Nov. 8, 1965, 79 Stat. 1228, Pub. L.91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, and renumbered Pub. L. 92–318, title I, §111(b)(3)(D), June 23, 1972, 86 Stat. 240, related to grants for research and demonstration projects, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 251 of Pub. L. 89–329 was classified to section 1047j of this title, prior to the general amendment of former part D of this subchapter by Pub. L. 99–498.
 

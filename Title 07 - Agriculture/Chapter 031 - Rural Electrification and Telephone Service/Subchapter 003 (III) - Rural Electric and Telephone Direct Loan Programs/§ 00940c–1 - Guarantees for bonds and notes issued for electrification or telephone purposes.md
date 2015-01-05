@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
+Subject to subsection (b), the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
 
 #### (b) Limitations
 
@@ -22,7 +22,7 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 &emsp;&emsp;(B) the bond or note issued by the lender would not be investment grade quality without a guarantee; or
 
-&emsp;&emsp;(C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a) of this section.
+&emsp;&emsp;(C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a).
 
 #### (4) Annual amount
 
@@ -56,7 +56,7 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (4) Rural economic development subaccount
 
-&emsp;Subject to subsection (e)(2) of this section, fees collected under this subsection shall be—
+&emsp;Subject to subsection (e)(2), fees collected under this subsection shall be—
 
 &emsp;&emsp;(A) deposited into the rural economic development subaccount maintained under section 940c(b)(2)(A) of this title, to remain available until expended; and
 
@@ -90,13 +90,13 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (2) Fees
 
-&emsp;To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to 1/3 of the fees collected under subsection (c) of this section for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under section 940c(b)(2)(A) of this title.
+&emsp;To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to 1/3 of the fees collected under subsection (c) for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under section 940c(b)(2)(A) of this title.
 
 #### (f) Termination
 
-The authority provided under this section shall terminate on September 30, 2012.
+The authority provided under this section shall terminate on September 30, 2018.
 
-(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958.)
+(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958; Pub. L. 113–79, title VI, §6102, Feb. 7, 2014, 128 Stat. 851.)
 
 #### Codification
 
@@ -105,6 +105,8 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2014</b>—Subsec. (f). Pub. L. 113–79 substituted "2018" for "2012".
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §6106(a)(1)(A), substituted "for eligible electrification or telephone purposes consistent with this chapter" for "for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter".
 

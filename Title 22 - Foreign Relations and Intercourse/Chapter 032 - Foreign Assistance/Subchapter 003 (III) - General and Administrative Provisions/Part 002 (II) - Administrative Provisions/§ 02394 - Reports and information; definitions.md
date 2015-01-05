@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;(1) "foreign assistance" means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign country which are owned by the United States Government; and
 
-&emsp;(2) "provided by the United States Government" includes, but is not limited to, foreignassistance provided by means of gift, loan, sale, credit, or guaranty.
+&emsp;(2) "provided by the United States Government" includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
 (Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1, 1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 94–273 substituted "September" for "June" and "March" for
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–559 substituted in item (1) respecting presentation material "economic assistance, military grants (and including for any such grant of any excess defense article, the value of such article expressed in terms of its acquisition cost to the United States), and military sales" for "economic assistance and military grants and sales".
 
-<b>1973</b>—Subsec. (f). Pub. L. 93–189 inserted references to contracts of guarantee or insurance, the status of sales of defense articles or defense services on credit terms, the status of sales of agricultural commodities on credit terms, and the status of loans, contracts of guarantee or insurance, or extensions of credit (or participations therein) made under the Export-Import Bank Actof 1945, and inserted provisions limiting the reporting requirement of the subsection so as to include only loans, contracts, sales, extensions of credit, or other transactions in excess of $1,000,000.
+<b>1973</b>—Subsec. (f). Pub. L. 93–189 inserted references to contracts of guarantee or insurance, the status of sales of defense articles or defense services on credit terms, the status of sales of agricultural commodities on credit terms, and the status of loans, contracts of guarantee or insurance, or extensions of credit (or participations therein) made under the Export-Import Bank Act of 1945, and inserted provisions limiting the reporting requirement of the subsection so as to include only loans, contracts, sales, extensions of credit, or other transactions in excess of $1,000,000.
 
 Subsec. (g). Pub. L. 93–189 added subsec. (g).
 

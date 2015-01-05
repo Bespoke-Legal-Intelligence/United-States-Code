@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed to affect the applicability of chapte
 
 &emsp;(2) a unit shall be considered to be appropriate notwithstanding the fact that it includes any supervisor if that supervisor's position (or type of position) was, before October 1, 1979, represented before the Panama Canal Company by a labor organization that included employees who were not supervisors; and
 
-&emsp;(3) any negotiated grievance procedures under section 7121 of title 5, including any provisions relating to binding arbitration, shall, with respect to any personnel action to which subchapter II of chapter 75 of such title applies (as determined under section 7512 of such title), be available to the same extent and in the same manner as if employees of the Panama Canal Commission were not excluded from such subchapter under section 7511(b)(8) of such title.
+&emsp;(3) any negotiated grievance procedures under section 7121 of title 5, including any provisions relating to binding arbitration, shall, with respect to any personnel action to which subchapter II of chapter 75 of such title applies (as determined under section 7512 of such title), be available to the same extent and inthe same manner as if employees of the Panama Canal Commission were not excluded from such subchapter under section 7511(b)(8) of such title.
 
 #### (b) United States laws applicable
 

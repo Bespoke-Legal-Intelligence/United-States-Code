@@ -58,7 +58,7 @@ The State Task Force shall—
 
 &emsp;&emsp;(F) supporting articulation agreements between two- and four-year public and private institutions of higher education and mechanisms to transform other training, professional development, and experience into academic credit;
 
-&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in and directors of early childhood education programs;
+&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in anddirectors of early childhood education programs;
 
 &emsp;&emsp;(H) providing career development advising with respect to the field of early childhood education, including informing an individual regarding—
 

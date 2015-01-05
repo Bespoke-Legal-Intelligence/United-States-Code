@@ -36,7 +36,7 @@ The purposes of this section are to clarify the authority within the Public Heal
 
 &emsp;(2) All babies who are not born in hospitals in the United States and its territories should have a hearing screening within the first 3 months of life.
 
-&emsp;(3) Appropriate audiologic and medical evaluations should be conducted by 3 months for all newborns and infants suspected of having hearing loss to allow appropriate referral and provisions for audiologic rehabilitation, medical and early intervention before the age of 6 months.
+&emsp;(3) Appropriate audiologic and medical evaluations should be conducted by 3 months for all newborns and infants suspected of havinghearing loss to allow appropriate referral and provisions for audiologic rehabilitation, medical and early intervention before the age of 6 months.
 
 &emsp;(4) All newborn and infant hearing screening programs and systems should include a component for audiologic rehabilitation, medical and early intervention options that ensures linkage to any new and existing statewide systems of intervention and rehabilitative services for newborns and infants with hearing loss.
 
@@ -54,7 +54,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) Centers for Disease Control and Prevention
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperativeagreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
 
 &emsp;&emsp;(A) to ensure quality monitoring of newborn and infant hearing loss screening, evaluation, and intervention programs and systems;
 
@@ -76,7 +76,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) In general
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], in carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and education specialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed to serve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], in carrying out programs under this section, the Administrator of the Health Resources and Services Administration, the Director of the Centers for Disease Control and Prevention, and the Director of the National Institutes of Health shall collaborate and consult with other Federal agencies; State and local agencies, including those responsible for early intervention services pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (Medicaid Early and Periodic Screening, Diagnosis and Treatment Program); title XXI of the Social Security Act \[42 U.S.C. 1397aa et seq.\], (State Children's Health Insurance Program); title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (Maternal and Child Health Block Grant Program); and part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; consumer groups of and that serve individuals who are deaf and hard-of-hearing and their families; appropriate national medical and other health and education specialty organizations; persons who are deaf and hard-of-hearing and their families; other qualified professional personnel who are proficient in deaf or hard-of-hearing children's language and who possess the specialized knowledge, skills, and attributes needed toserve deaf and hard-of-hearing newborns, infants, toddlers, children, and their families; third-party payers and managed care organizations; and related commercial industries.
 
 #### (2) Policy development
 
@@ -98,7 +98,7 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amountof $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+&emsp;For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amount of $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 

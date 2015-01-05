@@ -174,7 +174,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;(A) in a Federal, State, local, or tribal public health agency; or
 
-&emsp;&emsp;(B) in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities,personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
+&emsp;&emsp;(B) in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
 
 #### (c) Qualified loan amount
 
@@ -214,7 +214,7 @@ In this section:
 
 &emsp;The term "audiologist" means an individual who—
 
-&emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
+&emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institutionof higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
 &emsp;&emsp;(B)(i) provides audiology services under subsection (ll)(2) of section 1395x of title 42; or
 
@@ -268,7 +268,7 @@ In this section:
 
 &emsp;&emsp;(A) in which 70 percent of households earn less than 85 percent of the State median household income; or
 
-&emsp;&emsp;(B) that includes a school that qualifies under section 1087ee(a)(2)(A) of this title forloan cancellation for Perkins loan recipients who teach in such a school.
+&emsp;&emsp;(B) that includes a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
 
 #### (7) Nurse
 

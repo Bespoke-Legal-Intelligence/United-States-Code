@@ -26,7 +26,7 @@ The Secretary shall establish a program under which a United States observer wil
 
 #### (c) Functions of observers
 
-United States observers, while aboard foreign fishing vessels as required under subsection (b) of this section, shall carry out such scientificand other functions as the Secretary deems necessary or appropriate to carry out this section.
+United States observers, while aboard foreign fishing vessels as required under subsection (b) of this section, shall carry out such scientific and other functions as the Secretary deems necessary or appropriate to carry out this section.
 
 #### (d) Fees
 

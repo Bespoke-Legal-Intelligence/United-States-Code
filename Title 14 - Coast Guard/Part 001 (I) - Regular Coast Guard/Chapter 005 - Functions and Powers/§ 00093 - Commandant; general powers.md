@@ -8,13 +8,13 @@
 
 &emsp;(3) assign vessels, aircraft, vehicles, aids to navigation, equipment, appliances, and supplies to Coast Guard districts and shore establishments, and transfer any of the foregoing from one district or shore establishment to another;
 
-&emsp;(4) conduct experiments, investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities, and cooperate and coordinate such activities with other Government agencies and with private agencies;
+&emsp;(4) conduct experiments and investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities;
 
 &emsp;(5) conduct any investigations or studies that may be of assistance to the Coast Guard in the performance of any of its powers, duties, or functions;
 
 &emsp;(6) collect, publish, and distribute information concerning Coast Guard operations;
 
-&emsp;(7) conduct or make available to personnel of the Coast Guard such specialized training and courses of instruction, including correspondence courses, as may be necessary or desirable for the good of the service;
+&emsp;(7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 542, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, as may be necessary or desirable for the good of the service;
 
 &emsp;(8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
@@ -26,13 +26,13 @@
 
 &emsp;(12) accept and utilize, in times of emergency in order to save life or protect property, such voluntary services as may be offered to the Coast Guard;
 
-&emsp;(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the Treasury;
+&emsp;(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the fund established under section 687;
 
 &emsp;(14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
 &emsp;(15) establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
 
-&emsp;(16) establish, install, abandon, reestablish, change the location of, operate, maintain, and repair radio transmitting and receiving stations;
+&emsp;(16) establish, install, abandon, reestablish, change the location of, operate, maintain, andrepair radio transmitting and receiving stations;
 
 &emsp;(17) provide medical and dental care for personnel entitled thereto by law or regulation, including care in private facilities;
 
@@ -40,7 +40,7 @@
 
 &emsp;(19) notwithstanding any other law, enter into cooperative agreements with States, local governments, non-governmental organizations, and individuals, to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources on, or to benefit natural and historic research on, Coast Guard facilities, subject to the requirement that—
 
-&emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds orservices on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
+&emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
 &emsp;&emsp;(B) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
@@ -54,7 +54,7 @@
 
 &emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
 
-(b)(1) Notwithstanding subsection (a)(14), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
+(b)(1) Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
 (2) A lease referred to in paragraph (1) is a lease—
 
@@ -110,7 +110,29 @@ Other Authority Not Affected.—Nothing in subsection (c) affects—
 
 Operation and Maintenance of Coast Guard Assets and Facilities.—All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543.)
+(f)
+
+Leasing of Tidelands and Submerged Lands.—
+
+&emsp;(1)
+
+Authority.—The Commandant may lease under subsection (a)(13) submerged lands and tidelands under the control of the Coast Guard without regard to the limitation under that subsection with respect to lease duration.
+
+&emsp;(2)
+
+Limitation.—The Commandant may lease submerged lands and tidelands under paragraph (1) only if—
+
+&emsp;&emsp;(A) lease payments are—
+
+&emsp;&emsp;&emsp;(i) received exclusively in the form of cash;
+
+&emsp;&emsp;&emsp;(ii) equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant; and
+
+&emsp;&emsp;&emsp;(iii) deposited in the fund established under section 687; and
+
+&emsp;&emsp;(B) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands or tidelands, or obtain goods or services from the lessee.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038.)
 
 #### Historical and Revision Notes
 
@@ -144,7 +166,7 @@ Subsection (l) is new and is deemed desirable in order to give legislative autho
 
 Subsection (m) is based on title 14, U.S.C., 1946 ed., §§110, 192 (June 20, 1874, ch. 344, §6, 18 Stat. 127; June 18, 1878, ch. 265, §10, 20 Stat. 165; July 3, 1926, ch. 742, §9, 44 Stat. 817). The power to accept volunteer services is enlarged to include all services offered in time of emergency, to save life or protect property, and the restrictive provisions relating to lifeboat stations only have been eliminated.
 
-Subsection (n) is new and grants authority to the Commandant to lease real property under the control of the Coast Guard, when not immediately needed in Coast Guard operations. Such authority will be advantageous to the Government, on the basis of past experience.
+Subsection (n) is new and grants authority to the Commandant to lease real property under the control of the Coast Guard, when not immediately needed inCoast Guard operations. Such authority will be advantageous to the Government, on the basis of past experience.
 
 Subsection (o) is new and is supplementary to subsection (n) of this section. It grants further authority to the Commandant permitting him to grant minor interests in land which is under control of the Coast Guard. This will avoid the necessity of special acts of Congress in each of such instances.
 
@@ -162,6 +184,18 @@ The date of enactment of this paragraph, referred to in subsec. (d)(2), is the d
 
 #### Amendments
 
+<b>2014</b>—Subsec. (a)(4). Pub. L. 113–281, §206(a), substituted "and investigate" for ", investigate" and struck out ", and cooperate and coordinate such activities with other Government agencies and with private agencies" before semicolon at end.
+
+Subsec. (a)(7). Pub. L. 113–281, §214(c), inserted ", and to eligible spouses as defined under section 542," after "Coast Guard".
+
+Pub. L. 113–281, §207, inserted "and the textbooks, manuals, and other materials required as part of such training or course of instruction" after "correspondence courses".
+
+Subsec. (a)(13). Pub. L. 113–281, §208(a), substituted "the fund established under section 687" for "the Treasury".
+
+Subsec. (b)(1). Pub. L. 113–281, §222(1), substituted "(a)(13)" for "(a)(14)".
+
+Subsec. (f). Pub. L. 113–281, §209, added subsec. (f).
+
 <b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
 <b>2011</b>—Subsec. (a)(8). Pub. L. 111–350, which directed amendment of subsec. (h) by substituting "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)", was executed by making the substitution in subsec. (a)(8) to reflect the probable intent of Congress and the amendment by Pub. L. 108–293, §201. See 2004 Amendment note below.
@@ -174,7 +208,7 @@ Subsecs. (c), (d). Pub. L. 111–281 added subsecs. (c) and (d).
 
 Subsec. (a)(24). Pub. L. 109–241, §901(c), redesignated par. (y) as (24).
 
-<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to\(j) and (l) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
+<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (l) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
 
 Pub. L. 108–293, §217, which directed amendment of this section by striking out "and" after semicolon at end of "paragraph (w)", substituting "; and" for period at end of "paragraph (x)", and adding a paragraph designated "(y)" at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
 
@@ -264,7 +298,7 @@ Operation and Maintenance Plan.—Not later than 90 days after the date of enact
 
 "(b)
 
-Necessary Measures.—The Secretary shall take all necessary measures to ensure that the Coast Guardmaintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
+Necessary Measures.—The Secretary shall take all necessary measures to ensure that the Coast Guard maintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
 
 "(c)
 
@@ -298,7 +332,7 @@ No Interference With Other Functions.—In providing support under subsection (a
 
 #### Conveyance of Lighthouses; Notification
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
 
 #### Small Waterplane Area Twin Hull (SWATH) Technology
 
